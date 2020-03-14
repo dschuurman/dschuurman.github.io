@@ -1,0 +1,308 @@
+body {
+   background:#FFFFFF;
+/*   background-image: url(background.jpg); */
+   background-repeat: repeat-x;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   color: black;
+   margin-left: auto;
+   margin-right: auto;
+   width: 900px;
+}
+
+#banner {
+   background-color: #FFFFFF;
+   /* This width needs to be adjusted to accomodate some IE width issues... */
+   width: 800px;
+   color: #a0002b; 
+   padding: 0px;
+   margin: 0px;
+   font-size: 1.5em; 
+   font-family: Sans-serif; 
+   font-weight: normal; 
+   vertical-align: middle;
+   overflow: auto;
+/*   border: 1px solid #990000; */
+}
+
+#banner-image {
+   height: 75px;
+}
+
+#header {
+   width: 750px;
+   height: 125px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   margin-left: 0px;
+/*   margin-right: auto;
+   vertical-align: middle; */
+   background-color:#FFFFFF;
+}
+
+#portrait {
+   border: thin silver solid;
+   padding: 2px;
+   margin-right: 25px;
+   margin-left: 0px;
+   margin-bottom: 0px; 
+}
+
+#side-portrait {
+   margin-bottom: 25px; 
+   border: thin silver solid;
+   padding: 2px;
+   margin-right: 0px;
+   margin-left: 25px;
+}
+
+#image-div {
+   float: left;
+}
+
+#image-div p {
+	  text-align: left;
+	  text-indent: 0;
+	  padding: 0;
+	  margin: 0;
+}
+
+#image-caption {
+  font-size: smaller;
+  margin-top: 0px;
+  padding-top: 0px;
+  font-style: italic;
+  text-indent: 0;
+}
+
+#contact {
+   float:left;
+}
+
+
+#name {
+   color:#a0002b;
+   font-size:1.5em; 
+/*   font-weight:bold; */
+}
+
+#contact-info {
+   font-size:0.8em;
+/*   font-weight:bold; */
+}
+
+#title {
+/*   font-weight: bold; */
+}
+
+#contact {
+	position: relative;
+   background-color:#FFFFFF;
+}
+
+#bio {
+display: block;
+
+}
+
+.cover {
+  float: right;
+  margin-left: 10px;
+}
+
+.right-image {
+	float: right;
+	margin-left: 20px;
+}
+.left-image {
+	float: left;
+	margin-right: 20px;
+}
+
+a:visited {color: #BB0000}
+
+a:link {color: #a0002b}
+
+a {
+   text-decoration:none;
+}
+
+h1 {
+	font-size:2.0em;
+}
+
+h2 {
+	font-size:1.5em;
+}
+
+th {
+	color:black; 
+	background-color:#EAE8E8; 
+	font-size:1.3em; 
+	font-weight:bold; 
+	font-family:Sans-serif;
+	text-align: left;
+	border-bottom: 1px solid #990000;
+	clear: right;
+}
+
+td {
+	color:black; 
+	background-color:#FFFFFF; 
+	font-size:100%; 
+	font-style:normal; 
+	font-family:Sans-serif
+}
+
+#linkbar {
+   background-color: #444444;
+   color: #ffffff;
+   padding: 0px;
+   text-align: left;
+   width: 800px;
+
+   margin-top: 0;
+   padding: 0.5em 0 0.5em 0;
+
+/*   margin-top: 20px; 
+   margin-bottom: 0px; */
+/*   border: 1px solid #990000; 
+   border-top: 1px solid #990000;
+   border-left: 1px solid #990000;
+   border-right: 1px solid #990000; */
+}
+
+#linkbar li {
+/*   font-size: smaller;  */
+   display: inline;
+   color: #ffffff;
+   list-style-type: none;
+   padding-right: 10px;
+}
+
+#linkbar ul {
+	display: inline;
+	color: #ffffff;
+	list-style-type: none;
+	padding: 0;
+}
+
+#linkbar a, #menu a:active {
+	padding: 2px 2px 2px 2px;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#linkbar a:visited {
+	text-decoration: none;
+}
+
+
+#main {
+	width: 780px;
+	margin-top: 0px;
+	background-color:#FFFFFF;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+/*	border: 1px solid #990000; */
+}
+
+#family {
+	text-align: justify;
+}
+
+#menu {
+	height: 100%;
+	float:left;
+	font-size: smaller;
+	margin: 0em;
+	background-color: #EAE8E8;
+	color: #a0002b;
+	width: 149px;
+	padding: 0px;
+	margin-top: 20px;
+	border: 1px solid #990000;
+}
+
+#menu ul {
+	color: #a0002b;
+	padding-left: 5px;
+	list-style-type: none;
+	margin-left: 10px;
+	padding: 0;
+}
+
+#menu a:hover {
+	color: #FFFFFF;
+	background-color: #a0002b;
+	text-decoration: none;
+}
+
+#menu a, #menu a:active {
+	padding: 4px 10px 4px 10px;
+	color: #a0002b;
+	display: block;
+	text-decoration: none;
+}
+
+#menu a:visited {
+	text-decoration: none;
+}
+
+#menu img {
+	border: 0;
+	padding: 0;
+	margin: 0;
+} 
+
+#courses {
+	font-size: 65%;
+	margin-top: 0px;
+	padding-top: 0px;
+	table-layout: fixed;
+}
+
+#courses ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.category {
+	font-weight: bold;
+	font-size: 1.1em;
+	color: #a0002b;
+}
+
+.section {
+        color:black;
+        background-color:#EAE8E8;
+        font-size:1.1em;
+        font-weight:bold;
+        font-family:Sans-serif;
+        text-align: left;
+        border-bottom: 1px solid #a0002b;
+        clear: right;
+}
+
+
+#footer-content {
+   font-family:Sans-serif;
+   font-size:0.75em;
+   text-align: center;
+   padding-top: 20px;
+   margin: auto;
+   color: black;
+   border: 0;
+   text-decoration: none;
+   clear: both;
+}
+
+#footer-content img {
+	border: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
