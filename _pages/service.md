@@ -1,4 +1,9 @@
-## Computing Service Projects
+---
+layout: archive
+title: "Computing Service Projects"
+permalink: /service/
+author_profile: true
+---
 
 <table style="float:right">
 <tr><td>
