@@ -1,7 +1,4 @@
-![](images/derek-presenting.jpg){style="float:left; width:120px; margin-right:25px;"}
-
-Prof. Schuurman is available to speak to groups as time allows. He was selected as the 
-[ACMS Brabenec Lecturer](https://acmsonline.org/brabenec-lectureship/) for 2023-2024.
+![](images/derek-presenting.jpg)
 
 The following includes links to [video](#video) interviews and talks,
 [chapel reflections](#chapel), [podcasts and audio](#audio) recordings,
