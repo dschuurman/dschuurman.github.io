@@ -5,7 +5,6 @@ permalink: /biography/
 author_profile: true
 ---
 
-![Derek and Carina Schuurman](images/homebrew.jpg){style="width:300px; float:right; margin-left:10px;"}
 I grew up in a northern suburb of Toronto where I developed 
 [early interest in electronics and ham radio](https://www.christiancourier.ca/ham-radio-from-a-hobby-to-a-vocation/).
 The Bible tells us that God has chosen the "time and place" in which
@@ -26,7 +25,7 @@ could inspire some of my later work with platforms like the
 
 **Meeting Carina**
 
-![Derek and Carina Schuurman](images/DerekandCarina.jpg){style="width:300px; float:left; margin-right:10px"}
+![Derek and Carina Schuurman](images/DerekandCarina.jpg){: width="300px" .align-left}
 My wife, Carina, grew up in the Netherlands on a dairy farm
 (\"boerderij\") in the province of Utrecht. 
 [My wife and I met](https://www.christiancourier.ca/25-years-of-technology-and-the-arts)
@@ -50,7 +49,6 @@ and she touched the lives of many students over the years.
 
 **The Move from Industry to Teaching**
 
-![Derek and robot](images/robot-tie2.jpg){style="width:300px; margin-left:10px; margin-bottom:10px; float:right"} 
 After graduating, I worked in [industry](https://sites.calvin.edu/derek/industry.html) as an engineer, 
 but I sensed a call to teaching and began to ponder what my faith had to do with my work. 
 Carina encouraged me to read about how a Christian world-and-life view might apply to the world of technology and to pursue further 
@@ -66,7 +64,6 @@ Besides teaching, I began [speaking](talks.html) and [writing](pubs.html) about 
 [Christian higher education](https://www.cccu.org/magazine/defining-the-integration-of-faith-and-learning/).
 Carina frequently read and edited my writing, giving thoughtful advice and feedback.
 
-![Calvin University](images/derek-calvin2.jpg){style="width:300px; float:left; margin-right:10px"}
 But my calling in Christian higher education was not without its upheavals.
 After some years teaching at Redeemer we found ourselves 
 [facing change](https://www.christiancourier.ca/facing-change/). We 
@@ -81,7 +78,6 @@ In 2023, I completed
 
 **The Loss of my Wife**
 
-![Carina](images/derek.jpg){style="width:250px; margin-left:10px; float:right"} 
 Sadly, my beloved wife 
 [Carina](https://www.kitchingsteepeandludwig.com/obituaries/Carina-Wilhelmina-Schuurman?obId=30132296#/obituaryInfo)
 passed away in December 2023 after an intense battle with an aggressive lymphoma.
