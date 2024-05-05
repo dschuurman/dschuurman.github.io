@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-![](derek-presenting.jpg)
+![](/images/derek-presenting.jpg)
 
 The following includes links to [video](#video) interviews and talks,
 [chapel reflections](#chapel), [podcasts and audio](#audio) recordings,
