@@ -77,7 +77,7 @@ and [text interviews](#text) that have been posted online.
 
 ### Chapel Reflections {#chapel}
 
-![](images/derek-in-chapel.jpg){style="float:left; width:120px; margin-right:25px;"}
+![](images/derek-in-chapel.jpg)
 
 -   [Reflection on Genesis 11:1-9](https://www.youtube.com/watch?v=WOwhjiPr9S8&t=350s), Calvin University chapel, April 9, 2024.
 -   [Reflection on Genesis 2 and Job 28](https://www.youtube.com/live/GXZ8cBORbAk?feature=share),
@@ -93,7 +93,7 @@ and [text interviews](#text) that have been posted online.
 
 ### Audio Links to Podcasts and Other Recordings {#audio}
 
-![](images/derek-podcasting.jpg){style="float:left; width:120px; margin-right:25px;"}
+![](images/derek-podcasting.jpg)
 
 -   [Artificial Intelligence Roundtable: Eddy Wu, Derek Schuurman, and Jeremy Peckham](https://cfc.sebts.edu/faith-and-science/artificial-intelligence-roundtable-eddy-wu-derek-schuurman-and-jeremy-peckham/), 
     Christ and Culture Podcast, Center for Faith and Culture, Southeastern Baptist Theological Seminary, December 1, 2023.
