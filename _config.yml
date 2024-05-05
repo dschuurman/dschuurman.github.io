@@ -12,7 +12,7 @@ title                    : "Derek C. Schuurman"
 title_separator          : "-"
 name                     : &name "Derek C. Schuurman"
 description              : &description "Professor of Computer Science"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dschuurman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Derek C. Schuurman"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Computer Science, Calvin University"
-  location         : "Earth"
+  location         : "Michigan"
   employer         : "Calvin University"
   uri              : # URL
   email            : "derek[dot]schuurman[at]calvin.edu" 
