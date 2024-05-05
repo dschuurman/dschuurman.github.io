@@ -25,7 +25,7 @@ could inspire some of my later work with platforms like the
 
 **Meeting Carina**
 
-![Derek and Carina Schuurman](images/DerekandCarina.jpg){: width="300px" .align-left}
+![Derek and Carina Schuurman](/images/DerekandCarina.jpg){: width="300px" .align-left}
 My wife, Carina, grew up in the Netherlands on a dairy farm
 (\"boerderij\") in the province of Utrecht. 
 [My wife and I met](https://www.christiancourier.ca/25-years-of-technology-and-the-arts)
