@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
 ![](images/derek-presenting.jpg)
 
 The following includes links to [video](#video) interviews and talks,
