@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Biogrpahy"
+permalink: /biography/
+author_profile: true
+---
+
 ![Derek and Carina Schuurman](images/homebrew.jpg){style="width:300px; float:right; margin-left:10px;"}
 I grew up in a northern suburb of Toronto where I developed 
 [early interest in electronics and ham radio](https://www.christiancourier.ca/ham-radio-from-a-hobby-to-a-vocation/).
