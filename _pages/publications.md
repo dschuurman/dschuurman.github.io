@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### List of Publications for Derek Schuurman:
-
 For a complete list of my most recent scholarship since arriving at Calvin, see 
 [Calvin's Faculty Activity Report](https://datawise.quickbase.com/db/bfvin7iyc/tablereport?a=q&qid=125&nv=1&v0=Schuurman%2C+Derek).
 My work falls into two distinct categories: *technical* and *perspectival* publications \(with most of my recent work
 falling into the second category\). For a summary of technical publications, see my 
 [technical research](https://sites.calvin.edu/derek/research.html) page.
 
-#### Books {.subheading}
+#### Books
 
 -   [![Book Cover](images/fieldguide.jpg){.cover height="100"}](https://www.ivpress.com/a-christian-field-guide-to-technology-for-engineers-and-designers){target="_blank"}
      Ethan J. Brue, Derek C. Schuurman, Steven H. VanderLeest, 
@@ -33,7 +31,7 @@ falling into the second category\). For a summary of technical publications, see
     [*Exploring CS with the Raspberry Pi*](docs/cs-with-rpi.pdf),
     self-published, 2023-2024.
 
-#### Chapters in Books {.subheading}
+#### Chapters in Books
 -   ![Book Cover](images/where-wisdom-may-be-found.jpg){.cover height="100"} Derek C. Schuurman, 
     "Seeking Wisdom in Engineering and Computer Science" in 
     [*Where Wisdom May be Found: The Eternal Purpose of Christian Higher Education*](https://wipfandstock.com/9781498296106/where-wisdom-may-be-found/){target="_blank"},
@@ -43,7 +41,7 @@ falling into the second category\). For a summary of technical publications, see
     [*The Wonder and Fear of Technology: Commissioned Essays on Faith and Technology*](https://www.amazon.com/Wonder-Fear-Technology-Commissioned-Essays/dp/0692796231){target="_blank"},
     edited by David H. Kim, Center for Faith & Work, 2016, 42-56.
 
-#### Papers {.subheading}
+#### Papers
 
 -   Derek C. Schuurman, ["Virtue and Artificial Intelligence"](https://doi.org/10.56315/PSCF12-23Schuurman), *Perspectives on Science and Christian Faith*, Volume 75, Number 3, December 2023, 155-161.
 -   David Klanderman, Clayton Carlson, Tina Decker, Fred Haan, Victor 
@@ -119,7 +117,7 @@ falling into the second category\). For a summary of technical publications, see
 
 ^\*^ Denotes students that I have (co-)supervised
 
-#### Patents and software {.subheading}
+#### Patents and software
 
 These patents were awarded during my time working as an engineer in industry:
 
@@ -146,7 +144,7 @@ Some modest open source software projects include:
 -   [index-o-matic](https://github.com/dschuurman/index-o-matic):
     helps to create an index for a PDF manuscript.
 
-#### Other {.subheading}
+#### Other
 
 ##### Collections of articles
 
